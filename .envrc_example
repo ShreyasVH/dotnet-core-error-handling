@@ -3,7 +3,7 @@ export PORT=
 # dotnet core path
 export PATH=
 
-#dotnet tools path
+# dotnet tools path
 export PATH=
 export DOTNET_ROOT=
 
